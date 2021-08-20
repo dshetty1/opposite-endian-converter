@@ -14,4 +14,4 @@ Output: <br>
 Input: <br>
 1 <br>
 Output: <br>
-1 converts to 16777216 <br>
+1 converts to 16777216
