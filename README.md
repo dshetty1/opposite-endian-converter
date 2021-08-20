@@ -1,5 +1,5 @@
 # opposite-endian-converter
-Converts integers to the opposite endian form
+Converts 8-byte integers into the opposite endian form
 
 ### Description
 Converts 8-byte integers into the opposite endian form only using bit-level operations.
