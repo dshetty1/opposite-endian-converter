@@ -1,7 +1,7 @@
 # opposite-endian-converter
 
 ### Description:
-Converts 8-byte integers into the opposite endian form only using bit-level operations.
+Converts 4-byte integers into the opposite endian form only using bit-level operations.
 
 Assume signed integers are stored using two's complement representation.
 
