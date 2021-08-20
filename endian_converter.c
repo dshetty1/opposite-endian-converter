@@ -7,7 +7,7 @@
 int main() {
 
 	int n, seg1, seg2, seg3, seg4, result;
-    scanf("%d",&n);
+    	scanf("%d",&n);
 
 	// Breaks the number into 4 separate segments, each of which are 8 bits
 	// Next, makes adjustments so the segments are placed on opposite positions as they were originally
